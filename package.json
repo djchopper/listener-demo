@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/djchopper/listener-demo#readme",
   "dependencies": {
-    "fastify": "^3.11.0"
+    "fastify": "^3.11.0",
+    "fastify-raw-body": "^3.1.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.25",
